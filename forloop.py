@@ -1,8 +1,5 @@
 mylist = ['ji', 'ju', 'jo']
 
 
-for values in mylist:
-    if values == 'ju':
-        break
-    print(values)
-        
+for x in range(10):
+    print(x)        
