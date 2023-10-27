@@ -1,4 +1,2 @@
-Ghana
-Mexico
-Spain
-France
+This is is the new text
+This is a new line
